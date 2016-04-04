@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B96FEC7147C8E6441A94FA58BB775BD3E994CAD1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "407E3583AFE811C276BEBA3CC37E807DCBDC0457" : 0,
+    "B96FEC7147C8E6441A94FA58BB775BD3E994CAD1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "69015C99-08F9-4017-A868-09ABCF462D46",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "407E3583AFE811C276BEBA3CC37E807DCBDC0457" : "",
+    "B96FEC7147C8E6441A94FA58BB775BD3E994CAD1" : "%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "数据结构",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "数据结构.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Medivh0416\/C-Data-Structures.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "407E3583AFE811C276BEBA3CC37E807DCBDC0457"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Medivh0416\/-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B96FEC7147C8E6441A94FA58BB775BD3E994CAD1"
+    }
+  ]
+}
